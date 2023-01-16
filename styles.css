@@ -1,0 +1,34 @@
+html {
+    box-sizing: border-box;
+  }
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+}
+
+.top-section,
+.bottom-section {
+    display: flex;
+}
+
+.top-section div {
+    flex: 1;
+}
+
+.nav-bar {
+    flex: 0 1 auto;
+    width: 200px;
+}
+
+.server-content {
+    flex: 1;
+}
+
+.top-section div {
+    border: 1px solid black;
+}
+
+.bottom-section div {
+    border: 1px solid
+}
