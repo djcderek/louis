@@ -12,6 +12,10 @@ html {
     display: flex;
 }
 
+.bottom-section {
+    height: 100vh;
+}
+
 .top-section div {
     flex: 1;
 }
