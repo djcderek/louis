@@ -36,3 +36,18 @@ html {
 .bottom-section div {
     border: 1px solid
 }
+
+a.button { 
+    background-color: aqua;
+    border:0px;
+    color:white;
+    padding: 15px 32 px;
+    text-align: center;
+    text-decoration: none;
+    display:inline-block;
+    font-size:16px;
+
+
+
+}
+
